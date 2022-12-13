@@ -1,0 +1,60 @@
+nav{
+    margin-bottom: 2rem;
+    
+}
+
+.productCard{
+    width: 350px;
+}
+
+.productCard img{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: contain;
+    width: 100%;
+    height: 250px;
+}
+
+.card-group h1{
+    margin: 2rem;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+ 
+ }
+
+
+.card-group {
+
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    
+    
+    
+    
+}
+
+.card-group img{
+
+    margin: 1rem;
+    
+    
+    
+    
+}
+
+
+
+.card-group h3{
+    justify-content: center;
+    font-size: 1rem;
+ 
+ }
+
+
+
+
+
